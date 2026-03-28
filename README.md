@@ -6,3 +6,9 @@ vue3 实现，使用方法见md文件
 # ts
 
 # js
+
+//git 上传项目到github
+```bash
+
+git 
+```
